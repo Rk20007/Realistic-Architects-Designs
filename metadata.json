@@ -1,0 +1,6 @@
+{
+  "name": "Realistic Architects & Designs",
+  "description": "Premier architecture, interior design, and turnkey spatial design studio based in Bhiwadi, Rajasthan. Crafting modern residential, commercial, and eco-conscious spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
